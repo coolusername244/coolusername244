@@ -14,29 +14,35 @@ Frontend:
   <img style='margin-left:1em;' src="icons/tailwindcss.svg" alt="tailwindcss">
   <img style='margin-left:1em;' src="icons/html5.svg" alt="html5">
   <img style='margin-left:1em;' src="icons/css3.svg" alt="css3">
+  <img style='margin-left:1em;' src="icons/bootstrap.svg" alt="bootstrap">
 </p>
-<img style='margin-left:1em;' src="icons/bootstrap.svg" alt="bootstrap">
 
 Backend:
 
-<img style='background-color:white;border-radius:50%;padding-left:5px;padding-right:5px' src="icons/express.svg" alt="express">
-<img style='margin-left:1em;' src="icons/mongodb.svg" alt="mongodb">
-<img style='margin-left:1em;' src="icons/postgresql.svg" alt="postgresql">
-<img style='margin-left:1em;' src="icons/python.svg" alt="python">
+<p>
+  <img style='background-color:white;border-radius:50%;padding-left:5px;padding-right:5px' src="icons/express.svg" alt="express">
+  <img style='margin-left:1em;' src="icons/mongodb.svg" alt="mongodb">
+  <img style='margin-left:1em;' src="icons/postgresql.svg" alt="postgresql">
+  <img style='margin-left:1em;' src="icons/python.svg" alt="python">
+</p>
 
 Tools:
 
-<img src="icons/git.svg" alt="git">
-<img style='margin-left:1em;' src="icons/nodedotjs.svg" alt="nodedotjs">
-<img style='margin-left:1em;' src="icons/mocha.svg" alt="mocha">
-<img style='margin-left:1em;' src="icons/jest.svg" alt="jest">
-<img style='margin-left:1em;background-color:white;border-radius:50%;padding:2px' src="icons/cypress.svg" alt="cypress">
-<img style='margin-left:1em;background-color:white;border-radius:50%' src="icons/postman.svg" alt="postman">
+<p>
+  <img src="icons/git.svg" alt="git">
+  <img style='margin-left:1em;' src="icons/nodedotjs.svg" alt="nodedotjs">
+  <img style='margin-left:1em;' src="icons/mocha.svg" alt="mocha">
+  <img style='margin-left:1em;' src="icons/jest.svg" alt="jest">
+  <img style='margin-left:1em;background-color:white;border-radius:50%;padding:2px' src="icons/cypress.svg" alt="cypress">
+  <img style='margin-left:1em;background-color:white;border-radius:50%' src="icons/postman.svg" alt="postman">
+</p>
 
 Full Stack Frameworks:
 
-<img style='background-color:white;border-radius:50%;padding:2px' src="icons/nextdotjs.svg" alt="nextdotjs">
-<img style='margin-left:1em;' src="icons/django.svg" alt="django">
+<p>
+  <img style='background-color:white;border-radius:50%;padding:2px' src="icons/nextdotjs.svg" alt="nextdotjs">
+  <img style='margin-left:1em;' src="icons/django.svg" alt="django">
+</p>
 
 ![Coolusername244s GitHub stats](https://github-readme-stats.vercel.app/api?username=coolusername244&show_icons=true&include_all_commits=true&custom_title=My%20Stats&hide_rank=true&line_height=30&theme=tokyonight)
 
