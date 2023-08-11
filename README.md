@@ -6,16 +6,7 @@
 
 Frontend:
 
-<p>
-  <img src="icons/react.svg" alt="react">
-  <img style='margin-left:1em;' src="icons/vite.svg" alt="vite">
-  <img style='margin-left:1em;' src="icons/javascript.svg" alt="javascript">
-  <img style='margin-left:1em;' src="icons/typescript.svg" alt="typescript">
-  <img style='margin-left:1em;' src="icons/tailwindcss.svg" alt="tailwindcss">
-  <img style='margin-left:1em;' src="icons/html5.svg" alt="html5">
-  <img style='margin-left:1em;' src="icons/css3.svg" alt="css3">
-  <img style='margin-left:1em;' src="icons/bootstrap.svg" alt="bootstrap">
-</p>
+![react](icons/react.svg) ![vite](icons/vite.svg) ![javascript](icons/javascript.svg) ![typescript](icons/typescript.svg) ![tailwindcss](icons/tailwindcss.svg) ![html5](icons/html5.svg) ![css3](icons/css3.svg) ![bootstrap](icons/bootstrap.svg)
 
 Backend:
 
