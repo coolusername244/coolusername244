@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Coolusername244s GitHub stats](https://github-readme-stats.vercel.app/api?username=coolusername244&show_icons=true&include_all_commits=true&custom_title=My%20Stats&hide_rank=true&line_height=30&theme=tokyonight)
 <!--
 **coolusername244/coolusername244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
