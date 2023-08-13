@@ -6,7 +6,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ### Here are some of my projects!
 
-- [Match Up](coolusername244.github.io/match-up/)
+- [Match Up](https://coolusername244.github.io/match-up/)
 - [AMH Beauty](coolusername244.github.io/AMH-Beauty/)
 
 
