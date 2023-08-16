@@ -53,6 +53,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   &nbsp;
   &nbsp;
   &nbsp;
+  <a href='https://mui.com/'>
+    <img width="70" src='https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png' alt='material-ui'>
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href='https://www.w3schools.com/html/'>
     <img width="70" src='https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png' alt='html5'>
   </a>
