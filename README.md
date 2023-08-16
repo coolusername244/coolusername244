@@ -139,6 +139,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   &nbsp;
   &nbsp;
   &nbsp;
+  <a href='https://flask.palletsprojects.com/en/2.3.x/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="flask">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href='https://www.postman.com/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman">
   </a>
