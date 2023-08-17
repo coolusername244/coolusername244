@@ -14,7 +14,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 
 ### Connect with me here!
-<a href='https://www.linkedin.com/in/leesheppard244' target='_blank'>
+<a href='https://www.linkedin.com/in/leesheppard244'>
     <img width="70" src='https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png' alt='react'>
 </a>
 
