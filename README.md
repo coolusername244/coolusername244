@@ -175,6 +175,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ---
 
+![](https://komarev.com/ghpvc/?username=coolusername244&color=blue&label=views)
 
 
 <!--
