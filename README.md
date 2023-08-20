@@ -14,6 +14,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ### Here are some of my projects!
 
+- [Stock Sense](https://stock-sense.vercel.app/)
 - [Match Up](https://coolusername244.github.io/match-up/)
 - [AMH Beauty](https://coolusername244.github.io/AMH-Beauty/)
 - [Google Frontend](https://coolusername244.github.io/Google-frontend/)
