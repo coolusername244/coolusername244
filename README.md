@@ -23,7 +23,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 <br>
 <p>
-    <img alt='top-lang' src='https://github-readme-stats.vercel.app/api/top-langs/?username=coolusername244&hide_progress=true&theme=tokyonight&line_height=30&hide_title=true'>
+    <img alt='top-lang' src='https://github-readme-stats.vercel.app/api/top-langs/?username=coolusername244&hide_progress=true&theme=tokyonight&line_height=30'>
 </p>
 
 
