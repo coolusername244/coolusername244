@@ -6,12 +6,6 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 🔭 I’m currently working on refining some of my older projects
 
-<br>
-
-<p>
-    <img alt='stats' src='https://github-readme-stats.vercel.app/api?username=coolusername244&show_icons=true&include_all_commits=true&custom_title=My%20Stats&hide_rank=true&line_height=30&theme=tokyonight'>   
-</p>
-
 ### Here are some of my projects!
 
 - [Stock Sense](https://stock-sense.vercel.app/)
@@ -19,11 +13,29 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 - [AMH Beauty](https://coolusername244.github.io/AMH-Beauty/)
 - [Google Frontend](https://coolusername244.github.io/Google-frontend/)
 
+<br>
+
+<p>
+    <img alt='stats' src='https://github-readme-stats.vercel.app/api?username=coolusername244&show_icons=true&include_all_commits=true&custom_title=My%20Stats&hide_rank=true&line_height=30&theme=tokyonight'>
+</p>
+
+
+
+<br>
+<p>
+    <img alt='top-lang' src='https://github-readme-stats.vercel.app/api/top-langs/?username=coolusername244&hide_progress=true&theme=tokyonight&line_height=30&hide_title=true'>
+</p>
+
 
 ### Connect with me here!
 <a href='https://www.linkedin.com/in/leesheppard244'>
     <img width="70" src='https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png' alt='react'>
 </a>
+
+<br>
+<br>
+
+📫 How to reach me: leesheppard2404@gmail.com
 
 
 ### Heres what i've been using
@@ -176,14 +188,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ---
 
-![](https://komarev.com/ghpvc/?username=coolusername244&color=blue&label=views)
-
-
 <!--
-![Coolusername244s GitHub stats](https://github-readme-stats.vercel.app/api?username=coolusername244&show_icons=true&include_all_commits=true&custom_title=My%20Stats&hide_rank=true&line_height=30&theme=tokyonight)
-![Coolusername244s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coolusername244&hide_progress=true&theme=tokyonight&line_height=30)
-
-
 
 **coolusername244/coolusername244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
