@@ -4,7 +4,7 @@ I'm Lee, a passionate and driven Full Stack Developer.
 
 In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  playing guitar 🎸 and piano 🎹 as well as spending time with my family 👨‍👩‍👧‍👧 🐕
 
-🔭 I’m currently working on refining some of my older projects
+🔭 I’m currently working on my portfolio website
 
 ### Here are some of my projects!
 
