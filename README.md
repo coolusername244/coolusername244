@@ -168,6 +168,13 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   <a href='https://www.postman.com/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman">
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href='https://aws.amazon.com/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="aws">
+  </a>
+    
 </p>
 
 ---
