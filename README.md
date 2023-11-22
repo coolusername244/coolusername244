@@ -141,6 +141,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   &nbsp;
   &nbsp;
   &nbsp;
+  <a href='https://dotnet.microsoft.com/en-us/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="dotnet">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href='https://mochajs.org/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="mocha">
   </a>
