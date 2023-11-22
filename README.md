@@ -122,6 +122,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   <a href='https://www.python.org/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python">
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href='https://learn.microsoft.com/en-us/dotnet/csharp/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c-sharp">
+  </a>
 </p>
 
 ---
