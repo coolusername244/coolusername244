@@ -8,6 +8,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ### Here are some of my projects!
 
+- [Solros Crêperie](https://solros-creperie.vercel.app) - Work in progress
 - [Stock Sense](https://stock-sense.vercel.app/)
 - [Match Up](https://coolusername244.github.io/match-up/)
 - [AMH Beauty](https://coolusername244.github.io/AMH-Beauty/)
