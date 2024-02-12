@@ -129,6 +129,13 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c-sharp">
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href='https://go.dev/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="golang">
+  </a>
+    
 </p>
 
 ---
