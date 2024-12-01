@@ -4,16 +4,6 @@ I'm Lee, a passionate and driven Full Stack Developer.
 
 In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  playing guitar 🎸 and piano 🎹 as well as spending time with my family 👨‍👩‍👧‍👧 🐕
 
-🔭 I’m currently working on the redesign and update of [Solros Crêperie](https://solroscreperie.se/) using NextJS 14 and Tailwind!
-
-### Here are some of my projects!
-
-- [Solros Crêperie](https://solros-creperie.vercel.app) - Work in progress
-- [Stock Sense](https://stock-sense.vercel.app/)
-- [Match Up](https://coolusername244.github.io/match-up/)
-- [AMH Beauty](https://coolusername244.github.io/AMH-Beauty/)
-- [Google Frontend](https://coolusername244.github.io/Google-frontend/)
-
 <br>
 
 <p>
