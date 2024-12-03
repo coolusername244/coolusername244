@@ -46,12 +46,6 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href='https://vitejs.dev/'>
-    <img width="70" src='https://vitejs.dev/logo.svg' alt='vite'>
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
     <img width="70" src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png' alt='javascript'>
   </a>
@@ -201,7 +195,7 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 
 ---
 
-#### Full Stack Frameworks
+#### Frameworks
 
 <p>
   <a href='https://nextjs.org/'>
@@ -212,6 +206,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
   &nbsp;
   <a href='https://www.djangoproject.com/'>
     <img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpMGlfyMzhhQpkSl14SfYoFOQeQbLfIADVQ&usqp=CAU" alt="django">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href='https://vitejs.dev/'>
+    <img width="70" src='https://vitejs.dev/logo.svg' alt='vite'>
   </a>
 </p>
 
