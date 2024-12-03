@@ -34,6 +34,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 #### Frontend
 
 <p>
+  <a href='https://flutter.dev/'>
+    <img width="70" src='https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png' alt='flutter'>
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href='https://react.dev/'>
     <img width="70" src='https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png' alt='react'>
   </a>
@@ -92,6 +98,12 @@ In my free time I enjoy coding ⌨️, running 🏃‍♂️, gaming 🕹️,  p
 #### Backend
 
 <p>
+  <a href='https://dart.dev/'>
+    <img width="70" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="dart">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <a href='https://expressjs.com/'>
     <img width="70" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express">
   </a>
